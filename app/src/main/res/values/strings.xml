@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">A Tour in Sulaimany</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="namehotel1">Grand Millennium</string>
+    <string name="namehotel2">Palas</string>
+    <string name="namehotel3">Abu  sanna</string>
+    <string name="namehotel4">Titanic Hotel</string>
+    <string name="locationhotel1">bakhtyari</string>
+    <string name="locationhotel2">salm</string>
+    <string name="locationhotel3">sarchnar</string>
+    <string name="locationhotel4">Malik Mahmod Road</string>
+    <string name="nameres1">Diwan Restaurant</string>
+    <string name="nameres2">Sharif Rest and Cafe</string>
+    <string name="nameres3">Dawa Restaurant</string>
+    <string name="nameres4">Roma Restaurant</string>
+    <string name="locationres1">parki azady</string>
+    <string name="locationres2">salm street</string>
+    <string name="locationres3">Sareshnar Street</string>
+    <string name="locationres4">tuyMalik street</string>
+    <string name="namelibrary1">Andesha</string>
+    <string name="namelibrary2">Saya</string>
+    <string name="namelibrary3">Zanyar</string>
+    <string name="namelibrary4">Mali Rangin</string>
+    <string name="locationlibrary1">mawlawy street</string>
+    <string name="locationlibrary2">piramerd street</string>
+    <string name="locationlibrary3">piramerd street</string>
+    <string name="locationlibrary4">salm street</string>
+    <string name="nameshoping1">Majidi Mall</string>
+    <string name="nameshoping2">Family Mall</string>
+    <string name="nameshoping3">City Center</string>
+    <string name="nameshoping4">City Star</string>
+    <string name="locationshoping1">Sulaimani - Kirkuk Rd</string>
+    <string name="locationshoping2">Baban Street</string>
+    <string name="locationshoping3">opposite Talar Honer ,, Sarchinar Sub-Road</string>
+    <string name="locationshoping4">Salm street</string>
+</resources>
